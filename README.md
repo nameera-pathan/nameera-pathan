@@ -1,5 +1,4 @@
 <div align="left">
-
 <img src="assets/images/profile-banner.png" width="100%" alt="Nameera's dark neon developer workspace banner" />
 <br/>
 <table>
@@ -12,8 +11,6 @@
     </td>
   </tr>
 </table>
-  
-
 </div>
 
 ## <img src="https://img.shields.io/badge/%3C%2F%3E-22d3ee?style=flat-square&labelColor=0d1117" />  Tech Stack
@@ -42,7 +39,6 @@
 <!-- <br/>  -->
 
 ## GitHub Stats
-
 <!---
 ![](https://github-readme-stats.shion.dev/api?username=nameera-pathan&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true) -->
 ![](https://streak-stats.demolab.com/?user=nameera-pathan&theme=jolly&hide_border=true)
