@@ -24,7 +24,7 @@
       </p>
     </td>
     <td width="50%">
-        <img src="assets/svg/learning-code.svg" width="45%" alt="While learning: build, explore, improve"/>
+        <img src="assets/svg/learning-code.svg" width="100%" alt="While learning: build, explore, improve"/>
     </td>
   </tr>
 </table>
