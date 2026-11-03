@@ -37,17 +37,8 @@
 
 <!---
 ![](https://github-readme-stats.shion.dev/api?username=nameera-pathan&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true) -->
-
-<table width="100%">
-  <tr>
-    <td width="60%">
-      ![](https://streak-stats.demolab.com/?user=nameera-pathan&theme=github_dark&hide_border=true)
-    </td>
-    <td width="40%">
-      ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nameera-pathan&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-    </td>
-  </tr>
-</table>
+  ![](https://streak-stats.demolab.com/?user=nameera-pathan&theme=github_dark&hide_border=true)
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nameera-pathan&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- <br/> -->
 
