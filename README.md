@@ -2,8 +2,8 @@
 
 <img src="assets/images/profile-banner.png" width="100%" alt="Nameera's dark neon developer workspace banner" />
 <br/>
-&nbsp;<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=C084FC&center=false&vCenter=false&width=760&lines=Software+Engineer;Full-Stack+Developer;Computer+Science+Enthusiast"
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=900&color=C084FC&center=false&vCenter=false&width=760&lines=Software+Engineer;Full-Stack+Developer;Computer+Science+Enthusiast"
   alt="Software Engineer | Full-Stack Developer | CS Enthusiast"
 />
 </div>
