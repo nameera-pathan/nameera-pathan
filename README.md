@@ -13,15 +13,15 @@
 
 ## Currently Exploring
 
-<p>
+<div width="50%" align="left">
   <img src="https://img.shields.io/badge/AI%20%2F%20Machine%20Learning-9b72cf?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud%20Computing-7657c8?style=for-the-badge&logo=icloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Game%20Development-7657c8?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B%20%26%20DSA-8b5cf6?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
+</div>
 
-<br/>
-<img src="assets/svg/learning-code.svg" width="45%" alt="While learning: build, explore, improve" />
+
+<img src="assets/svg/learning-code.svg" width="45%" alt="While learning: build, explore, improve" align="right" />
 <br/>
 
 ## GitHub Stats
