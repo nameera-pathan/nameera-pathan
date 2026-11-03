@@ -30,7 +30,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nameera-pathan&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## Let's Connect
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/__ded_sec_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nameera-pathan-ba17811b1/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/__ded_sec_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codingenthusiast02@gmail.com) [![Github](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/nameera-pathan)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/__ded_sec_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nameera-pathan-ba17811b1/) [![X(Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/__ded_sec_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codingenthusiast02@gmail.com) [![Github](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/nameera-pathan) [![Portfolio](https://img.shields.io/badge/Portfolio-C084FC?logo=vercel&logoColor=white)](https://nameera.netlify.app)
 
 
 <div align="right">
