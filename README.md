@@ -32,7 +32,11 @@
 ## Let's Connect
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/__ded_sec_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nameera-pathan-ba17811b1/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/__ded_sec_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codingenthusiast02@gmail.com) 
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
+## portfolio
+ [https://nameera.netlify.app](https://nameera.netlify.app)
 
 <div align="right">
   <br/><br/>
