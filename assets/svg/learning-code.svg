@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="150" viewBox="0 0 520 150">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#00e599"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
+<rect x="1" y="1" width="518" height="148" rx="14" fill="#0d1117" fill-opacity=".78" stroke="#303044" stroke-width="2"/>
+<path d="M18 30V15H33 M487 15h15v15 M18 120v15h15 M487 135h15v-15" fill="none" stroke="url(#g)" stroke-width="3"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20">
+<text x="42" y="56" fill="#00e599">while</text><text x="108" y="56" fill="#e6edf3"> (learning) {</text>
+<text x="64" y="88" fill="#c9d1d9">build(); explore(); improve();</text>
+<text x="42" y="119" fill="#e6edf3">}</text>
+</g></svg>
