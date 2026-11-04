@@ -1,5 +1,5 @@
 <div align="left">
-<img src="assets/images/profile-banner.png" width="100%" border="1" alt="Nameera's dark neon developer workspace banner" />
+<img src="assets/images/profile-banner.png" width="100%" border="5" alt="Nameera's dark neon developer workspace banner" />
 <br/>
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=900&color=C084FC&center=false&vCenter=false&width=760&lines=Software+Engineer;Full-Stack+Developer;Computer+Science+Enthusiast"
