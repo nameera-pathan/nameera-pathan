@@ -35,7 +35,7 @@
 ## GitHub Stats
 <!---
 ![](https://github-readme-stats.shion.dev/api?username=nameera-pathan&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true) -->
-![](https://streak-stats.demolab.com/?user=nameera-pathan&theme=jolly&hide_border=true)
+![](https://streak-stats.demolab.com/?user=nameera-pathan&theme=jolly&hide_border=true) 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nameera-pathan&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
